@@ -1,3 +1,5 @@
+package ru.netology.tournament;
+
 public class Player {
 
     protected int id;
